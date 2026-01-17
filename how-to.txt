@@ -1,0 +1,7 @@
+1. Make a new folder. 
+2. Extract the rar file into that folder. 
+3. Open the folder in VS Code. 
+4. Open terminal and run command "npm i".
+5. Then run command "npm run start".
+
+Note: Node must be installed globally into your system.
